@@ -2,6 +2,8 @@
 
 この作品はUnityで開発され、Reactで動作しています。
 
+https://j2-slot.vercel.app
+
 ## One-Click Deploy
 もしこのプロジェクトを気に入っていただけた場合は、Vercelを使用してご自身でデプロイしていただくこともできます:
 
